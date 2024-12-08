@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muon-phi-nirjhar
-- 👀 I’m interested in AI/Machine learning/ compilers/ programming languages/ algorithms
-- 🌱 I’m currently learning C && C++
+- 👋 Hi, I’m Nirjhar
+- 👀 I’m interested in compilers/ programming languages/ algorithms
+- 🌱 I’m currently learning C,C++,C#
 - 📫 How to reach me muon.patet.niriar88@gmail.com
