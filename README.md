@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nirjhar
 - 👀 I’m interested in compilers/ programming languages/ algorithms
-- 🌱 I’m currently learning C,C++,C#
+- 🌱 I’m currently learning C,C++
 - 📫 How to reach me muon.patet.niriar88@gmail.com
